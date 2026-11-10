@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sidharth S!
+#  Hi, I'm Sidharth S!
 
-### 💻 BE Computer Science and Engineering Student | Aspiring Software Developer | Technology Enthusiast
+###  BE Computer Science and Engineering Student | Aspiring Software Developer | Technology Enthusiast
 
 Welcome to my GitHub profile! I'm **Sidharth S**, a passionate and enthusiastic Computer Science and Engineering student who loves exploring the world of technology, programming, and software development.
 
@@ -10,22 +10,22 @@ I believe that learning never stops in the technology field. Every new project, 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 👨‍🎓 My Name is **Sidharth S**.
-- 🎓 I am pursuing **BE Computer Science and Engineering (CSE)**.
-- 💻 I am interested in Software Development and Programming.
-- 🌱 I am continuously learning new programming languages and technologies.
-- 🧠 I enjoy solving problems and developing logical thinking.
-- 🔍 I love exploring new tools, technologies, and software applications.
-- 🛠️ I am interested in building creative and useful projects.
-- 📚 I believe in continuous learning and improving my technical knowledge.
-- 🤝 I am always interested in collaborating with other developers and students.
-- 🎯 My goal is to become a skilled software developer and build innovative technology solutions.
+- My Name is **Sidharth S**.
+-  I am pursuing **BE Computer Science and Engineering (CSE)**.
+-  I am interested in Software Development and Programming.
+-  I am continuously learning new programming languages and technologies.
+-  I enjoy solving problems and developing logical thinking.
+-  I love exploring new tools, technologies, and software applications.
+-  I am interested in building creative and useful projects.
+-  I believe in continuous learning and improving my technical knowledge.
+-  I am always interested in collaborating with other developers and students.
+-  My goal is to become a skilled software developer and build innovative technology solutions.
 
 ---
 
-## 💡 My Areas of Interest
+## My Areas of Interest
 
 - Software Development
 - Web Development
@@ -42,7 +42,7 @@ I believe that learning never stops in the technology field. Every new project, 
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Programming Languages**
 - Python
@@ -68,7 +68,7 @@ I believe that learning never stops in the technology field. Every new project, 
 
 ---
 
-## 📂 My GitHub Goals
+##  My GitHub Goals
 
 My GitHub profile is a place where I share my programming journey, learning experiences, academic projects, and personal projects.
 
@@ -86,7 +86,7 @@ I aim to keep improving my repositories and make my GitHub profile a collection 
 
 ---
 
-## 🎯 My Career Objective
+##  My Career Objective
 
 My career objective is to build a successful career in the field of Computer Science and Engineering. I want to develop strong technical skills, gain practical experience, and understand how modern technologies are used to solve real-world problems.
 
@@ -96,7 +96,7 @@ I believe that dedication, consistency, creativity, and hard work are the keys t
 
 ---
 
-## 🌟 My Strengths
+##  My Strengths
 
 - Quick learner and adaptable to new technologies.
 - Interested in exploring innovative ideas.
@@ -108,7 +108,7 @@ I believe that dedication, consistency, creativity, and hard work are the keys t
 
 ---
 
-## 📈 My Learning Journey
+##  My Learning Journey
 
 I am at the beginning of my professional journey in Computer Science and Engineering. Every day, I try to learn something new, practice programming, and improve my understanding of computer science concepts.
 
@@ -116,7 +116,7 @@ My journey is all about learning, experimenting, creating, and growing. I look f
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I am always happy to connect with fellow students, developers, programmers, and technology enthusiasts.
 
